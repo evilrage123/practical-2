@@ -1,0 +1,2 @@
+perimeters of ractangle is 8
+Area of ractangle is 4
